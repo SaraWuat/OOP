@@ -1,0 +1,11 @@
+D:\vs\Lab10\Lab10Lib\bin\Debug\net8.0\Lab10Lib.deps.json
+D:\vs\Lab10\Lab10Lib\bin\Debug\net8.0\Lab10Lib.dll
+D:\vs\Lab10\Lab10Lib\bin\Debug\net8.0\Lab10Lib.pdb
+D:\vs\Lab10\Lab10Lib\obj\Debug\net8.0\Lab10Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\Lab10\Lab10Lib\obj\Debug\net8.0\Lab10Lib.AssemblyInfoInputs.cache
+D:\vs\Lab10\Lab10Lib\obj\Debug\net8.0\Lab10Lib.AssemblyInfo.cs
+D:\vs\Lab10\Lab10Lib\obj\Debug\net8.0\Lab10Lib.csproj.CoreCompileInputs.cache
+D:\vs\Lab10\Lab10Lib\obj\Debug\net8.0\Lab10Lib.dll
+D:\vs\Lab10\Lab10Lib\obj\Debug\net8.0\refint\Lab10Lib.dll
+D:\vs\Lab10\Lab10Lib\obj\Debug\net8.0\Lab10Lib.pdb
+D:\vs\Lab10\Lab10Lib\obj\Debug\net8.0\ref\Lab10Lib.dll
