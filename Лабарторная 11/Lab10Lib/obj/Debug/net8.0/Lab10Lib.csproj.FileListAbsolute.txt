@@ -1,0 +1,11 @@
+C:\Users\KitsuJi\Desktop\Lab11\Lab10Lib\bin\Debug\net8.0\Lab10Lib.deps.json
+C:\Users\KitsuJi\Desktop\Lab11\Lab10Lib\bin\Debug\net8.0\Lab10Lib.dll
+C:\Users\KitsuJi\Desktop\Lab11\Lab10Lib\bin\Debug\net8.0\Lab10Lib.pdb
+C:\Users\KitsuJi\Desktop\Lab11\Lab10Lib\obj\Debug\net8.0\Lab10Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KitsuJi\Desktop\Lab11\Lab10Lib\obj\Debug\net8.0\Lab10Lib.AssemblyInfoInputs.cache
+C:\Users\KitsuJi\Desktop\Lab11\Lab10Lib\obj\Debug\net8.0\Lab10Lib.AssemblyInfo.cs
+C:\Users\KitsuJi\Desktop\Lab11\Lab10Lib\obj\Debug\net8.0\Lab10Lib.csproj.CoreCompileInputs.cache
+C:\Users\KitsuJi\Desktop\Lab11\Lab10Lib\obj\Debug\net8.0\Lab10Lib.dll
+C:\Users\KitsuJi\Desktop\Lab11\Lab10Lib\obj\Debug\net8.0\refint\Lab10Lib.dll
+C:\Users\KitsuJi\Desktop\Lab11\Lab10Lib\obj\Debug\net8.0\Lab10Lib.pdb
+C:\Users\KitsuJi\Desktop\Lab11\Lab10Lib\obj\Debug\net8.0\ref\Lab10Lib.dll
